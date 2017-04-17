@@ -1,9 +1,13 @@
 # python-env
 
 *Vagrant + Docker*
+
 **OS:** Ubuntu 16.04
+
 **Editors:** vim, nano
+
 **Python Versions:** 2.7+, 3.5+
+
 **Python Tools:** pip, pip3, virtualenv, pyenv
 
 #### **git clone this directory**

@@ -21,4 +21,4 @@
 ### Additional Notes
 
 	# Run jupyter notebook with typical data science tools
-	docker run -d -p 8888:8888 jupyter/datascience-notebook
+	docker run -d -p 8080:8080 jupyter/datascience-notebook

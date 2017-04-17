@@ -4,7 +4,7 @@
 $script = <<SCRIPT
 apt-get update -y
 apt-get upgrade -y
-apt-get install -y curl python python-dev git python-pip vim nano zlib1g-dev libreadline-dev libbz2-dev libssl-dev
+apt-get install -y curl python python-dev git python-pip vim nano zlib1g-dev libreadline-dev libbz2-dev libssl-dev python3 python3-dev python3-pip
 apt-get clean
 curl -sSL https://get.docker.com/ |  sh
 SCRIPT

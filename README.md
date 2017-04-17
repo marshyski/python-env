@@ -8,7 +8,7 @@
 
 **Python Versions:** 2.7+, 3.5+
 
-**Python Tools:** pip, pip3, virtualenv, pyenv
+**Python Tools:** pip, pip3, virtualenv, pyenv, pylint
 
 #### **git clone this directory**
 
